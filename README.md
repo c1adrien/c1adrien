@@ -12,7 +12,7 @@ Thanks for taking the time to read my profile, and please don't hesitate to reac
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-00599C?style=for-the-badge&logo=swift&logoColor=white)
 
 ### ML/DL Frameworks :
 
