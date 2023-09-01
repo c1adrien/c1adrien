@@ -1,8 +1,8 @@
 ## Hi, I'm Adrien !
 
-I'm an engineer from Les Mines de Saint Etienne (ICM) currently pursuing an actuarial degree at ISFA Lyon. Currently, I'm interning at Milliman R&D, where I've been fortunate enough to work on a variety of exciting projects.
+I am an engineering graduate from Les Mines de Saint Etienne (ICM), and I hold an actuarial degree from ISFA Lyon. At present, I am actively enrolled in the Master's program for Probability and Finance (formerly known as Ex DEA El Karoui) at Sorbonne University and Ecole Polytechnique. In the previous year, I completed an internship at Milliman Paris, gaining valuable insights into the field.
 
-
+During the summer of 2023, I had the chance of relocating to Madrid, where I joined an international team of Milliman. This experience broadened my horizons and provided exposure to diverse projects. Below, I share some of the exciting projects I had the opportunity to contribute to.
 
 
 Thanks for taking the time to read my profile, and please don't hesitate to reach out if you have any questions or opportunities to collaborate!
