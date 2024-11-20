@@ -5,8 +5,7 @@ I am interested in quantitative finance and machine learning. Thanks for taking 
 ### Languages :
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-00599C?style=for-the-badge&logo=swift&logoColor=white)
+
 
 ### ML/DL Frameworks :
 
